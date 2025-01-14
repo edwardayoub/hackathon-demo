@@ -9,7 +9,6 @@ st.markdown("### Key Literature")
 st.write("""
 - [Formation of Tertiary Lymphoid Structures in Cancer (Paper Placeholder)](#)
 - [Relevant Cell paper (2020)](https://www.cell.com/cell/fulltext/S0092-8674(20)30870-9)
-- [MD Anderson Official Website](https://www.mdanderson.org/)
 - Additional publications (placeholder)
 """)
 
