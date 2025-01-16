@@ -1,7 +1,6 @@
 import streamlit as st
 
 st.title("Hackathon: Exploring Tertiary Lymphoid Structures")
-st.subheader("A Collaborative Event for Advancing Multi-modal Data Integration")
 
 st.write("""
 **Date**: [Placeholder Date]  
