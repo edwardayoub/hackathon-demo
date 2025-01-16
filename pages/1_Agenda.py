@@ -14,8 +14,8 @@ def main():
             "Preliminary Team Findings", "Hackathon Kickoff"
         ],
         "Location": [
-            "First Floor, TMC3 Retail Space", "First Floor, TMC3 Retail Space", "First Floor, TMC3 Retail Space", "First Floor, TMC3 Retail Space",
-            "First Floor, TMC3 Retail Space", "Second Floor Workspace or First Floor, TMC3 Retail Space"
+            "First Floor, Retail Space", "First Floor, Retail Space", "First Floor, Retail Space", "First Floor, Retail Space",
+            "First Floor, Retail Space", "Second Floor Workspace or First Floor, Retail Space"
         ]
     }
 
@@ -32,7 +32,7 @@ def main():
             "Hackathon Continues", "Lunch", "Hackathon Concludes", "Team Presentations, Awards, and Reception Dinner"
         ],
         "Location": [
-            "Second Floor Workspace", "TMC3 Atrium", "Second Floor Workspace", "TMC3 Atrium"
+            "Second Floor Workspace", "Atrium", "Second Floor Workspace", "Atrium"
         ]
     }
 
