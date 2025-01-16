@@ -19,7 +19,6 @@ def main():
         ]
     }
 
-    st.subheader("Day 1 Agenda")
     df_day1 = pd.DataFrame(data_day1)
     st.table(df_day1)
 
@@ -36,7 +35,6 @@ def main():
         ]
     }
 
-    st.subheader("Day 2 Agenda")
     df_day2 = pd.DataFrame(data_day2)
     st.table(df_day2)
 
