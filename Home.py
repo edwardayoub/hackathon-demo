@@ -1,21 +1,20 @@
 import streamlit as st
 
-st.title("Hackathon Demo")
-st.subheader("A Collaborative Event Integrating CODEX and scRNA Data with maxfuse")
+st.title("Hackathon: Exploring Tertiary Lymphoid Structures")
+st.subheader("A Collaborative Event for Advancing Multi-modal Data Integration")
+
 st.write("""
 **Date**: [Placeholder Date]  
 **Location**: Virtual / On-site [Placeholder Location]
 """)
-st.write("""
-Welcome to the Hackathon Demo! This event aims to bring together computational 
-scientists, immunologists, and clinical researchers to integrate CODEX imaging data 
-from advanced colorectal cancer patients with single-cell RNA-seq (scRNA) data using the maxfuse tool.
-""")
 
+st.write("""
+Welcome to the Hackathon! This event brings together computational scientists, immunologists, and clinical researchers to explore the formation and functionality of Tertiary Lymphoid Structures (TLSs) in the tumor microenvironment. Using cutting-edge tools like MaxFuse, participants will integrate RNA and protein data to uncover novel insights.
+""")
 
 st.markdown("### Goals")
 st.write("""
-- Integrate multiplexed imaging data (CODEX) with scRNA data to uncover TLS formation pathways.
-- Identify novel biomarkers and features driving improved survival in CLR vs. DII patients.
-- Encourage collaborative data analysis, knowledge sharing, and innovative solutions.
+- Integrate multi-modal datasets (RNA and protein) to study TLS formation and their role in immune-tumor interactions.
+- Analyze TLS-related gene signatures (e.g., CXCL13, CCL19, and CCL21) to identify immune biomarkers.
+- Encourage collaboration to innovate solutions for immunotherapy challenges.
 """)
